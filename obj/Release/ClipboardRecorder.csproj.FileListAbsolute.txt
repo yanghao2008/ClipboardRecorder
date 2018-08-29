@@ -1,0 +1,16 @@
+D:\User\Documents\clipjiluqi\源代码\obj\Release\ClipboardRecorder.exe
+D:\User\Documents\clipjiluqi\源代码\obj\Release\ClipboardRecorder.pdb
+D:\User\Documents\clipjiluqi\源代码\bin\Release\ClipboardRecorder.exe
+D:\User\Documents\clipjiluqi\源代码\bin\Release\ClipboardRecorder.pdb
+D:\User\Documents\clipjiluqi\源代码\obj\Release\ClipboardRecorder.Form1.resources
+D:\User\Documents\clipjiluqi\源代码\obj\Release\ClipboardRecorder.Properties.Resources.resources
+D:\User\Documents\clipjiluqi\源代码\obj\Release\ClipboardRecorder.csproj.GenerateResource.Cache
+D:\User\Documents\clipjiluqi\源代码\obj\Release\ClipboardRecorder.csprojResolveAssemblyReference.cache
+C:\Users\wjh\Documents\Visual Studio 2015\Projects\clipjiluqi\源代码\obj\Release\ClipboardRecorder.exe
+C:\Users\wjh\Documents\Visual Studio 2015\Projects\clipjiluqi\源代码\obj\Release\ClipboardRecorder.pdb
+C:\Users\wjh\Documents\Visual Studio 2015\Projects\clipjiluqi\源代码\bin\Release\ClipboardRecorder.exe
+C:\Users\wjh\Documents\Visual Studio 2015\Projects\clipjiluqi\源代码\bin\Release\ClipboardRecorder.pdb
+C:\Users\wjh\Documents\Visual Studio 2015\Projects\clipjiluqi\源代码\obj\Release\ClipboardRecorder.csprojResolveAssemblyReference.cache
+C:\Users\wjh\Documents\Visual Studio 2015\Projects\clipjiluqi\源代码\obj\Release\ClipboardRecorder.Form1.resources
+C:\Users\wjh\Documents\Visual Studio 2015\Projects\clipjiluqi\源代码\obj\Release\ClipboardRecorder.Properties.Resources.resources
+C:\Users\wjh\Documents\Visual Studio 2015\Projects\clipjiluqi\源代码\obj\Release\ClipboardRecorder.csproj.GenerateResource.Cache

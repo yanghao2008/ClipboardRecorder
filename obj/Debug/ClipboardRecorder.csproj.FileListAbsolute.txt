@@ -1,0 +1,8 @@
+D:\User\Documents\clipjiluqi\源代码\obj\Debug\ClipboardRecorder.exe
+D:\User\Documents\clipjiluqi\源代码\obj\Debug\ClipboardRecorder.pdb
+D:\User\Documents\clipjiluqi\源代码\bin\Debug\ClipboardRecorder.exe
+D:\User\Documents\clipjiluqi\源代码\bin\Debug\ClipboardRecorder.pdb
+D:\User\Documents\clipjiluqi\源代码\obj\Debug\ClipboardRecorder.csprojResolveAssemblyReference.cache
+D:\User\Documents\clipjiluqi\源代码\obj\Debug\ClipboardRecorder.Form1.resources
+D:\User\Documents\clipjiluqi\源代码\obj\Debug\ClipboardRecorder.Properties.Resources.resources
+D:\User\Documents\clipjiluqi\源代码\obj\Debug\ClipboardRecorder.csproj.GenerateResource.Cache
